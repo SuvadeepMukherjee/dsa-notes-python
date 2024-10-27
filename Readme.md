@@ -1,1 +1,1 @@
-This Repository contains all my notes related to data structures with python
+This Repository contains all my notes related to data structures and algorithms with python
